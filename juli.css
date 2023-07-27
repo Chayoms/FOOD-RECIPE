@@ -1,0 +1,70 @@
+#hero_section {
+    background-image: url(img/rechus.jpg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.myImg {
+    margin-bottom: 350px;
+    float: left;
+    padding: 10px;
+}
+
+/* CSS FOR HEADING */
+h1 {
+    color: rgb(231, 199, 19);
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+    text-emphasis-position: center;
+}
+
+.rub {
+    /* color: black; */
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    text-emphasis-position: center;
+}
+
+
+#cop {
+    text-align: center;
+
+}
+
+.card-img-top {
+    background-color: greenyellow;
+}
+
+/* css for facebook */
+.ble {
+    color: white;
+    background-color: #3b5998;
+    padding: 7px;
+}
+
+/* csss for watsapp */
+.sip {
+    color: white;
+    background-color: rgb(21, 228, 21);
+    padding: 7px;
+}
+/* css for twitter */
+.min {
+    color: white;
+    background-color: skyblue;
+    padding: 7px;
+}
+.ins {
+    color: white;
+    background-color: purple;
+    padding: 7px; 
+}
